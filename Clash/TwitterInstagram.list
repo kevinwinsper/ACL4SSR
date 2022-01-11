@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-KEYWORD,linkedin
+DOMAIN-KEYWORD,whitepages
 # TikTok
 USER-AGENT,TikTok*
 DOMAIN-KEYWORD,-tiktokcdn-com
